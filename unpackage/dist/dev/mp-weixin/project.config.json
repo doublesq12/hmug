@@ -1,25 +1,32 @@
 {
   "description": "项目配置文件。",
   "packOptions": {
-    "ignore": [],
-    "include": []
+    "ignore": []
   },
   "setting": {
     "urlCheck": false,
-    "es6": false,
-    "babelSetting": {
-      "ignore": [],
-      "disablePlugins": [],
-      "outputPath": ""
-    }
+    "es6": false
   },
   "compileType": "miniprogram",
-  "libVersion": "2.26.0",
+  "libVersion": "",
   "appid": "wx1436ac042805aa59",
   "projectname": "hmug",
-  "condition": {},
-  "editorSetting": {
-    "tabIndent": "auto",
-    "tabSize": 2
+  "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "game": {
+      "current": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "current": -1,
+      "list": []
+    }
   }
 }
